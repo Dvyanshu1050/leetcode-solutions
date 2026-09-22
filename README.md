@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Dvyanshu1050/leetcode-solutions/tree/master/0068-text-justification) |
+| [0137-single-number-ii](https://github.com/Dvyanshu1050/leetcode-solutions/tree/master/0137-single-number-ii) |
 ## String
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Dvyanshu1050/leetcode-solutions/tree/master/0068-text-justification) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Dvyanshu1050/leetcode-solutions/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
